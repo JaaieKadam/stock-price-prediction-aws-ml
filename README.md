@@ -52,6 +52,6 @@ This project demonstrates practical ML engineering, cloud deployment, observabil
 
 ## 🗺 Architecture Diagram
 
-![AWS Architecture](docs/aws-architecture.png)
+![AWS Architecture](docs/aws-architecture.drawio.png)
 
 
